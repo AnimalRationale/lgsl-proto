@@ -24,6 +24,7 @@
     "arcasimracing" => "Arca Sim Racing",
     "arma"          => "ArmA: Armed Assault",
     "arma2"         => "ArmA 2",
+    "arma3"         => "ArmA 3",
     "avp2"          => "Aliens VS. Predator 2",
     "avp2010"       => "Aliens VS. Predator ( 2010 By Rebellion )",
     "bfbc2"         => "Battlefield Bad Company 2",
@@ -138,6 +139,7 @@
     "arcasimracing" => "16",
     "arma"          => "09",
     "arma2"         => "09",
+    "arma3"         => "05",
     "avp2"          => "03",
     "avp2010"       => "31",
     "bfbc2"         => "30",
@@ -260,6 +262,7 @@
     "arcasimracing" => "http://en.wikipedia.org/wiki/ARCA_Sim_Racing",
     "arma"          => "qtracker://{IP}:{S_PORT}?game=ArmedAssault&action=show",
     "arma2"         => "http://en.wikipedia.org/wiki/ARMA_2",
+    "arma3"         => "http://en.wikipedia.org/wiki/ARMA_3",
     "avp2"          => "qtracker://{IP}:{S_PORT}?game=AliensversusPredator2&action=show",
     "avp2010"       => "http://en.wikipedia.org/wiki/Aliens_vs._Predator_%28video_game%29",
     "bfbc2"         => "http://en.wikipedia.org/wiki/Battlefield_bad_company_2",
@@ -381,6 +384,7 @@
       case "aarmy"         : $c_to_q = 1;     $c_def = 1716;    $q_def = 1717;    $c_to_s = 0;   break;
       case "aarmy3"        : $c_to_q = 0;     $c_def = 8777;    $q_def = 39300;   $c_to_s = 0;   break;
       case "arcasimracing" : $c_to_q = -100;  $c_def = 34397;   $q_def = 34297;   $c_to_s = 0;   break;
+      case "arma3"         : $c_to_q = 0;     $c_def = 2302;    $q_def = 27016;   $c_to_s = 0;   break;
       case "bfbc2"         : $c_to_q = 0;     $c_def = 19567;   $q_def = 48888;   $c_to_s = 0;   break;
       case "bfvietnam"     : $c_to_q = 0;     $c_def = 15567;   $q_def = 23000;   $c_to_s = 0;   break;
       case "bf1942"        : $c_to_q = 0;     $c_def = 14567;   $q_def = 23000;   $c_to_s = 0;   break;
