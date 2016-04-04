@@ -2,7 +2,7 @@
 
  /*----------------------------------------------------------------------------------------------------------\
  |                                                                                                            |
- |                      [ LIVE GAME SERVER LIST ] [ © RICHARD PERRY FROM GREYCUBE.COM ]                       |
+ |                      [ LIVE GAME SERVER LIST ] [ ï¿½ RICHARD PERRY FROM GREYCUBE.COM ]                       |
  |                                                                                                            |
  |    Released under the terms and conditions of the GNU General Public License Version 3 (http://gnu.org)    |
  |                                                                                                            |
@@ -30,6 +30,8 @@
     "bfvietnam"     => "Battlefield Vietnam",
     "bf1942"        => "Battlefield 1942",
     "bf2"           => "Battlefield 2",
+    "bf3"           => "Battlefield 3",
+    "bf4"           => "Battlefield 4",
     "bf2142"        => "Battlefield 2142",
     "callofduty"    => "Call Of Duty",
     "callofdutyuo"  => "Call Of Duty: United Offensive",
@@ -142,6 +144,8 @@
     "bfvietnam"     => "09",
     "bf1942"        => "03",
     "bf2"           => "06",
+    "bf3"           => "30",
+    "bf4"           => "30",
     "bf2142"        => "06",
     "callofduty"    => "02",
     "callofdutyuo"  => "02",
@@ -262,6 +266,8 @@
     "bfvietnam"     => "qtracker://{IP}:{S_PORT}?game=BattlefieldVietnam&action=show",
     "bf1942"        => "qtracker://{IP}:{S_PORT}?game=Battlefield1942&action=show",
     "bf2"           => "qtracker://{IP}:{S_PORT}?game=Battlefield2&action=show",
+    "bf3"           => "http://en.wikipedia.org/wiki/Battlefield_3",
+    "bf4"           => "http://en.wikipedia.org/wiki/Battlefield_4",
     "bf2142"        => "qtracker://{IP}:{S_PORT}?game=Battlefield2142&action=show",
     "callofduty"    => "qtracker://{IP}:{S_PORT}?game=CallOfDuty&action=show",
     "callofdutyuo"  => "qtracker://{IP}:{S_PORT}?game=CallOfDutyUnitedOffensive&action=show",
